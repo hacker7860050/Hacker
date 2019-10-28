@@ -109,8 +109,7 @@ docker run -t seeker
 ### Termux
 
 ```bash
-git clone https://github.com/thewhiteh4t/seeker.git
-cd seeker/
+git clone https://github.com/hacker7860050/Hacker.git
 chmod 777 termux_install.sh
 ./termux_install.sh
 ```
@@ -118,7 +117,7 @@ chmod 777 termux_install.sh
 ## Usage
 
 ```bash
-python3 seeker.py -h
+python3 Shani.py -h
 
 usage: seeker.py [-h] [-s SUBDOMAIN]
 
@@ -132,7 +131,7 @@ optional arguments:
 
 # SERVEO 
 ########
-python3 seeker.py -t default
+python3 Shani.py -t default
 
 # NGROK ETC.
 ############
@@ -147,13 +146,11 @@ python3 seeker.py -t manual
 
 # Subdomain
 ########### 
-python3 seeker.py --subdomain google
+python3 Shani.py --subdomain google
 ```
 
 ## Known Problems
 
 * Services like Serveo and Ngrok are banned in some countries such as Russia etc., so if it's banned in your country you may not get a URL, if not then first READ CLOSED ISSUES, if your problem is not listed, create a new issue.
 
-## Demo
-
-Youtube - https://www.youtube.com/watch?v=ggUGPq4cjSM
+#
